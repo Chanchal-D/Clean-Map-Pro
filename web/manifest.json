@@ -31,5 +31,12 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-    ]
+    ],
+    "permissions": [
+      "identity"
+    ],
+    "oauth2": {
+      "client_id": "your-client-id",
+      "scopes": ["profile", "email"]
+    }
 }
