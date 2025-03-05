@@ -1,4 +1,4 @@
-# 🌍 Geo Tracking of Waste: Revolutionizing Urban Cleanliness
+# Geo Tracking of Waste: Revolutionizing Urban Cleanliness
 
 ## 🚨 Problem Statement
 Urban areas face major challenges in efficient waste management due to difficulties in identifying and prioritizing waste hotspots. Traditional methods are resource-intensive and inefficient, leading to unsanitary conditions and public health risks.
@@ -72,4 +72,4 @@ We welcome **contributions** to improve our system! Feel free to **raise issues,
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ## 📬 Contact  
-For any queries or collaborations, **reach out via email or open a GitHub issue**.
+For any queries or collaborations, **reach out via email** chanchalkuntal398@gmail.com or **open a GitHub issue**.
